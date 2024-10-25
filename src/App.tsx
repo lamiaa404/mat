@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import  Home  from '/Users/lh/Documents/Projects/mat_website/src/components/Home';
-import Resources from '/Users/lh/Documents/Projects/mat_website/src/components/Resources';
-import Videos from '/Users/lh/Documents/Projects/mat_website/src/components/Videos';
-import Whoarewe from '/Users/lh/Documents/Projects/mat_website/src/components/Whoarewe';
+import Home from './components/Home';
+import Resources from './components/Resources';
+import Videos from './components/Videos';
+import Whoarewe from './components/Whoarewe';
 
 
 // Main App component with colorful, modern navigation and layout

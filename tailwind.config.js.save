@@ -1,0 +1,12 @@
+module.exports = {
+  content: [
+    './index.html',
+    './src/**/*.{js,ts,jsx,tsx}', // This ensures TypeScript files are scanned for Tailwind classes
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+

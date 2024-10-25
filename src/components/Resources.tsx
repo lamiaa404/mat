@@ -1,8 +1,8 @@
 import  { useState } from 'react';
-import suboxoneImage from '/Users/lh/Documents/Projects/mat_website/src/assets/suboxone.jpeg';
-import bupImage from '/Users/lh/Documents/Projects/mat_website/src/assets/bup.jpg';
-import methadone2Image from '/Users/lh/Documents/Projects/mat_website/src/assets/methadone2.jpeg';
-import methadoneImage from '/Users/lh/Documents/Projects/mat_website/src/assets/methadonesf.png';
+import suboxoneImage from '../assets/suboxone.jpeg';
+import bupImage from '../assets/bup.jpg';
+import methadone2Image from '../assets/methadone2.jpeg';
+import methadoneImage from '../assets/methadonesf.png';
 
 function Resources() {
   const [activeTab, setActiveTab] = useState('methadone');

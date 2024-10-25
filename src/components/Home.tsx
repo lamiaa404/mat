@@ -1,6 +1,6 @@
-import suboxoneImage from './assets/suboxone.jpeg';
-import methadoneImage from './assets/methadone.jpeg';
-import methadone2Image from './assets/methadone2.jpeg';
+import suboxoneImage from '../assets/suboxone.jpeg';
+import methadoneImage from '../assets/methadone.jpeg';
+import methadone2Image from '../assets/methadone2.jpeg';
 import { Link } from 'react-router-dom';
 
 
